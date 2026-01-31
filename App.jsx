@@ -955,7 +955,7 @@ const App = () => {
         opacity: 0.5,
         textAlign: 'center',
       }}>
-        © 2026 RUCHE 75 - BUTINER NOTRE FUTUR
+        © 2026 RUCHES - BUTINER NOTRE FUTUR
       </p>
 
       {/* CSS pour animation */}
