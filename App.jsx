@@ -710,7 +710,7 @@ const App = () => {
             }}>
               MANGEZ LES ALVEOLES<br/>
               EVITEZ LES COSTARDS<br/>
-              LE MIEL DONNE DU POUVOIR!
+              LE MIEL DONNE DU TEMPS!
             </p>
             <button
               onClick={startGame}
